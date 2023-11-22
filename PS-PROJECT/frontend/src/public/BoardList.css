@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'noto';
+    src: url('../fonts/Noto_Sans_KR/NotoSansKR-VariableFont_wght.ttf') format('truetype');
+}
+div{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    margin-left: -40px;
+}
+li{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: 0.5px solid;
+    border-color: grey;
+    border-left: none;
+    border-right: none;
+    width: auto;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-family: noto;
+}
+button{
+    width: 51px;
+    height: 30px;
+}
+select{
+    width: 51px;
+    height: 25px;
+}
+input{
+    height: 25px;
+}
+.board-list{
+    font-family: noto;
+    font-size: 110%;
+}
+.page-block{
+    color: blue;
+    background-color: white;
+    border: 0px;
+    font-family: noto;
+    font-size: 120%;
+}
+.search-form{
+    margin-right: 5px;
+    width: 54px;
+}
+.search{
+    margin-left: 5px;
+    background-color: skyblue;
+    font-family: noto;
+    border: 1px solid #000;
+}
+.write{
+    background-color: skyblue;
+    width: 53px;
+    border: 1px solid #000;
+    font-family: noto;
+}
