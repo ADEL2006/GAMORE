@@ -13,7 +13,6 @@ const BoardList = () => {
   const [prevBlock, setPrevBlock] = useState(0); //이전 페이지 블록
   const [nextBlock, setNextBlock] = useState(0); //다음 페이지 블록
   const [lastPage, setLastPage] = useState(0); //마지막 페이지 (가장 마지막에 있는 페이지로 이동)
-
   const [search, setSearch] = useState({
     page: 1,
     sk: '',
