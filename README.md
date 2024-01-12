@@ -1,3 +1,3 @@
 # GAMORE
-<h1>PS-PROJECT</h1>h1><br>
+PS-PROJECT <br>
 simple game board
